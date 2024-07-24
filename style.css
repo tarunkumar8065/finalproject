@@ -85,7 +85,7 @@ body{
     color: white;
 }
 .reset-btn:hover{
-    background-color: forestgreen;
+    background-color: rgb(94, 93, 93);
 
 }
 .reset-btn:active{
@@ -93,7 +93,7 @@ body{
 }
 
 .new-btn:hover{
-   background-color: deeppink;
+   background-color: rgb(94, 93, 93);
 
 }
 .new-btn:active{
